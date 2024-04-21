@@ -1,0 +1,25 @@
+Press :- Shift + 1 and press enter then u get your formate
+
+<!DOCTYPE html>
+==> Document type html
+
+<html lang="en">
+==>  In html we use English lang
+
+<head>
+
+    <meta charset="UTF-8">
+    ==> encoding 
+    ==> What is the full form of utf - 8 ??   --> Unicode tra Formate
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    --? in tital we Enter our web page name 
+</head>
+
+<body>
+                //    What we want to show in my web page so we write in body tag all of the codes.......
+</body>
+
+</html>
