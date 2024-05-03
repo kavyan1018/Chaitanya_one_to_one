@@ -23,3 +23,31 @@ Press :- Shift + 1 and press enter then u get your formate
 </body>
 
 </html>
+
+
+
+Heading tags 
+
+there is total 6 Heading tags in html 
+
+what is the difference between h1 to h6
+--> there is size difference between h1 to h6
+
+h1 --> max
+h2 
+h3 
+h4 
+h5 
+h6 --> min
+
+
+center --> what we want to center so we can write in center tag
+
+font --> different types of font 
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark>
+
