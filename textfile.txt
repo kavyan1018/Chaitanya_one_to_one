@@ -51,3 +51,34 @@ underline ==> <u> and inserted
 delete ==> <del> and strikex
 high light ==> <mark>
 
+ <!-- 1st way to insert image  
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+ <!-- 
+        2nd way is insert image from download 
+     -->
+
+<br>  ==> To Break cont Line 
+
+&nbsp; for space between text/image/and all about that
+
+// Narendra Modi
+in center img 
+
+line Name Line
+
+50 lines paragraph
+
+
+hr --> horizontal rule
+
+ <!-- 
+    Marquee tag– moving text, image, 
+    behavior = “scroll”, “slide”, “alternate”; 
+    direction = “left”, “right”, “up”, “down”; 
+    scrollamount = “20”;  
+    -->
